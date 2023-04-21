@@ -6,6 +6,7 @@ You will learn how to utilize and integrate front-end frameworks with APIs to bu
 
 To complete this project, you will be provided with a Cloud-based IDE from IBM that already has many libraries, such as React.js, preinstalled. Also, note that this platform works best with current versions of modern browsers. 
 
+
 What You’ll Learn
 *Develop a React application from scratch 
 *Apply and interpret JSX syntax 
@@ -15,3 +16,16 @@ What You’ll Learn
 
 What You’ll Need
 *Just a modern web browser.
+
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
