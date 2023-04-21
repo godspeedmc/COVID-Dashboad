@@ -7,10 +7,11 @@ You will learn how to utilize and integrate front-end frameworks with APIs to bu
 To complete this project, you will be provided with a Cloud-based IDE from IBM that already has many libraries, such as React.js, preinstalled. Also, note that this platform works best with current versions of modern browsers. 
 
 What You’ll Learn
-Develop a React application from scratch 
-Apply and interpret JSX syntax 
-Describe and create a React Component 
-Utilize React hooks to store data and work with renders/re-renders 
-Use third-party libraries to streamline development 
+*Develop a React application from scratch 
+*Apply and interpret JSX syntax 
+*Describe and create a React Component 
+*Utilize React hooks to store data and work with renders/re-renders 
+*Use third-party libraries to streamline development 
+
 What You’ll Need
-Just a modern web browser.
+*Just a modern web browser.
