@@ -19,5 +19,6 @@ What You’ll Learn
 *Use third-party libraries to streamline development 
 
 What You’ll Need
+
 *Just a modern web browser.
 
