@@ -8,7 +8,7 @@ To complete this project, you will be provided with a Cloud-based IDE from IBM t
 
 
 What You’ll Learn
-*Develop a React application from scratch 
+**Develop a React application from scratch 
 *Apply and interpret JSX syntax 
 *Describe and create a React Component 
 *Utilize React hooks to store data and work with renders/re-renders 
@@ -17,15 +17,3 @@ What You’ll Learn
 What You’ll Need
 *Just a modern web browser.
 
-
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
