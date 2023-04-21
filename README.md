@@ -9,9 +9,13 @@ To complete this project, you will be provided with a Cloud-based IDE from IBM t
 
 What You’ll Learn
 **Develop a React application from scratch 
+
 *Apply and interpret JSX syntax 
+
 *Describe and create a React Component 
+
 *Utilize React hooks to store data and work with renders/re-renders 
+
 *Use third-party libraries to streamline development 
 
 What You’ll Need
